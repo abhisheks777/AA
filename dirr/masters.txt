@@ -3,6 +3,5 @@ qwer
 branchh1
 --------
 branchh45
-branch2
 data2
 
