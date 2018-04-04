@@ -14,6 +14,6 @@ public @ResponseBody String AppMain() throws Exception
 	ApplicationContext fact=new AnnotationConfigApplicationContext(AppConfig.class);
 	Samsung s1=fact.getBean(Samsung.class);
 	 s1.config();
-	 return "bean";
+	 return "bean";//
 	}
 }
